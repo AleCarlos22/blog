@@ -1,0 +1,4 @@
+[submodule "thelostfootball/public"]
+	path = thelostfootball/public
+	url = https://github.com/AleCarlos22/thelostfootball.github.io.git
+	branch = main

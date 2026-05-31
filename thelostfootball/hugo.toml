@@ -1,0 +1,12 @@
+baseURL = "https://thelostfootball.duckdns.org/"
+locale = 'en-us'
+title = 'The Lost Football'
+
+theme = "sugo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = false # Converte automaticamente i trattini e le virgolette
+    [markup.goldmark.renderer]
+      unsafe = true
